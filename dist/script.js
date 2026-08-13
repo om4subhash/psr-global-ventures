@@ -18,5 +18,5 @@ Requirement: ${service}
 Message: ${message || 'Not provided'}
 
 I would like to discuss this project.`;
-  window.open('https://wa.me/917710884568?text='+encodeURIComponent(text),'_blank');
+  window.open('https://wa.me/917645060555?text='+encodeURIComponent(text),'_blank');
 });
